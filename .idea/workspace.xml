@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="66a4dec8-1065-46bf-8b56-eee44fc04ac0" name="Changes" comment="" />
+=======
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="66a4dec8-1065-46bf-8b56-eee44fc04ac0" name="Changes" comment="" />
+=======
+    <list default="true" id="66a4dec8-1065-46bf-8b56-eee44fc04ac0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/GITJan24k.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GITJan24k.iml" afterDir="false" />
+    </list>
+>>>>>>> c4b6516906000b0f5b0745dea3f89325ca91107b
+>>>>>>> 5458cbe2a059dbfe008e3c57b4878b2deabf07a7
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +35,24 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/hexa/Sample.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+<<<<<<< HEAD
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hexa/Sample.py" root0="SKIP_INSPECTION" />
+  </component>
+=======
+>>>>>>> c4b6516906000b0f5b0745dea3f89325ca91107b
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2bidYIdg0peIpnzP2NB9DZBzkrn" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+<<<<<<< HEAD
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> c4b6516906000b0f5b0745dea3f89325ca91107b
+>>>>>>> 5458cbe2a059dbfe008e3c57b4878b2deabf07a7
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +60,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sample" />
+=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> c4b6516906000b0f5b0745dea3f89325ca91107b
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,6 +77,10 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5458cbe2a059dbfe008e3c57b4878b2deabf07a7
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -57,4 +92,9 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> c4b6516906000b0f5b0745dea3f89325ca91107b
+>>>>>>> 5458cbe2a059dbfe008e3c57b4878b2deabf07a7
 </project>
